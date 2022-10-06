@@ -1,0 +1,17 @@
+
+@media only screen and (max-width: 999px){
+    
+    
+}
+.a1{
+    text-align: end;
+ }
+ .a{
+     border: 1px solid black;
+     height:400px;
+     background-color: aquamarine;
+   }
+   .container{
+    margin-top: 180px;
+    margin-left: 250px;
+}

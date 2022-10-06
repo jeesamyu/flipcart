@@ -1,0 +1,46 @@
+.navbar{
+    height:100px;
+    z-index: 1;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(255, 255, 255);
+    }
+  }
+
+  #view{
+    margin-top:150px;
+    background-color: lightskyblue;
+    height: 50px;
+    width:1650px;
+    margin-left: 250px;
+    display: block;
+    border: 1px solid black;
+    position: fixed;
+    z-index: 2;
+  }
+
+  #view{
+    text-align: end;
+  }
+  #grid{
+    font-size: 20px;
+    border: 2px solid black;
+  }
+
+  #list{
+    font-size: 20px;
+    border: 2px solid black;
+  }
+  .samyu{
+    color: brown;
+    font-weight: bold;
+  }
+
+  .btns{
+    margin-top: 155px;
+    text-align: center;
+  }
+
+  

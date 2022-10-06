@@ -1,0 +1,18 @@
+.sidenav{
+    top: 0;
+    bottom:95px;
+    height: 100%;
+    position: fixed;
+    overflow-y: scroll;
+    background-color: white;
+    border: 1px solid black;
+    position: fixed;
+    
+}
+
+table{
+    position:relative;
+    margin-top:60px;
+    overflow: hidden;
+    overflow: scroll;
+}
